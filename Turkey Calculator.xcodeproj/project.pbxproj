@@ -13,6 +13,7 @@
 		A97157D81A477E6200930142 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A97157D71A477E6200930142 /* Images.xcassets */; };
 		A97157DB1A477E6200930142 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A97157D91A477E6200930142 /* LaunchScreen.xib */; };
 		A97157E71A477E6300930142 /* Turkey_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A97157E61A477E6300930142 /* Turkey_CalculatorTests.swift */; };
+		A9ED598E1A48600E0060527B /* Funny-Turkey-Pictures-2014.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9ED598D1A48600E0060527B /* Funny-Turkey-Pictures-2014.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A97157E01A477E6300930142 /* Turkey CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Turkey CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A97157E51A477E6300930142 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A97157E61A477E6300930142 /* Turkey_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Turkey_CalculatorTests.swift; sourceTree = "<group>"; };
+		A9ED598D1A48600E0060527B /* Funny-Turkey-Pictures-2014.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Funny-Turkey-Pictures-2014.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A97157CD1A477E6200930142 /* Turkey Calculator */,
 				A97157E31A477E6300930142 /* Turkey CalculatorTests */,
 				A97157CC1A477E6200930142 /* Products */,
+				A9ED598D1A48600E0060527B /* Funny-Turkey-Pictures-2014.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -194,6 +197,7 @@
 			files = (
 				A97157D61A477E6200930142 /* Main.storyboard in Resources */,
 				A97157DB1A477E6200930142 /* LaunchScreen.xib in Resources */,
+				A9ED598E1A48600E0060527B /* Funny-Turkey-Pictures-2014.jpg in Resources */,
 				A97157D81A477E6200930142 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +411,7 @@
 				A97157EC1A477E6300930142 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A97157ED1A477E6300930142 /* Build configuration list for PBXNativeTarget "Turkey CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				A97157EF1A477E6300930142 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
